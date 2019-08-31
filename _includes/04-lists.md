@@ -1,1 +1,16 @@
-Replace this with a list of your favorite things.
+## Ordered List
+1. Durian
+2. Djambu
+  a. pink
+  b. white
+3. Salak
+
+## Un-ordered List
+* Sunny days
+* Mountains
+  * Rivers
+* Jungles
+
+## Emojis
+
+:laughing:
