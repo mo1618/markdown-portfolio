@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+![profile_image](https://octodex.github.com/images/cloud.jpg)
